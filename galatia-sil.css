@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Galatia SIL";
+    src: url(galatia-sil-regular.woff);
+}
+
+@font-face {
+    font-family: "Galatia SIL Bold";
+    font-weight: bold;
+    src: url(galatia-sil-bold.woff);
+}
